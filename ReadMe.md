@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with a chrome extension that helps students to focus on their tasks .<br>🌱 I’m currently learning Data structures and Algorithm <br>⚡ Fun fact - I'm either very organised.. or incredibly chaotic. There is no in-between.
+🔭 I’m currently working on Web Development<br>👯 I’m looking for help with a chrome extension that helps students to focus on their tasks .<br>🌱 I’m currently learning Data structures and Algorithm <br>⚡ Fun fact - I'm either very organised.. or incredibly chaotic. There is no in-between.
 
 
 ## 🌐 Socials:
